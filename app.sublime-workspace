@@ -15,13 +15,73 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 81.0,
-		"last_filter": "install pack",
+		"height": 219.0,
+		"last_filter": "Package Control: re",
 		"selected_items":
 		[
 			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"github sw",
+				"GitHub: Switch Accounts"
+			],
+			[
+				"github swit",
+				"GitHub: Switch Accounts"
+			],
+			[
+				"install pak",
+				"Package Control: Install Package"
+			],
+			[
+				"remove packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"install packa",
+				"Package Control: Install Package"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git: pus",
+				"Git: Push"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"quick comm",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"git: push",
+				"Git: Push"
+			],
+			[
+				"git: quick",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git: com",
+				"Git: Commit"
+			],
+			[
 				"install pack",
 				"Package Control: Install Package"
+			],
+			[
+				"git:",
+				"GitGutter: Show Diff Popup"
 			],
 			[
 				"remove pack",
@@ -70,11 +130,13 @@
 	"file_history":
 	[
 		"/C/Users/Wes/Desktop/School Stuff/Demo Flask File/app.py",
+		"/C/Users/Wes/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/C/Users/Wes/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/C/Users/Wes/AppData/Roaming/Sublime Text 3/Packages/User/GitGutter.sublime-settings",
 		"/C/Users/Wes/Desktop/School Stuff/Demo Flask File/app.sublime-project",
 		"/C/Users/Wes/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
 		"/C/Users/Wes/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/C/Users/Wes/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-		"/C/Users/Wes/AppData/Roaming/Sublime Text 3/Packages/User/GitGutter.sublime-settings",
 		"/C/Users/Wes/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
 		"/C/Users/Wes/Desktop/test.py",
 		"/C/Users/Wes/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings"
@@ -124,7 +186,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 31.0
 	},
 	"layout":
 	{
@@ -152,6 +214,10 @@
 	"output.find_results":
 	{
 		"height": 0.0
+	},
+	"output.git-push":
+	{
+		"height": 100.0
 	},
 	"pinned_build_system": "",
 	"project": "app.sublime-project",
